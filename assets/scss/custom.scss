@@ -103,6 +103,24 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
 }
 
 
+.site-header-container {
+  color: #fff;
+  text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important;
+  background-position: bottom;
+  background-size: cover;
+  margin: 5px 0 0 0;
+  .scrim  {
+    padding: 9em 1em !important;
+
+    .site-header {
+      text-align: center;
+    }
+    .title {
+      font-size: 3rem;
+      color: #fff;
+    }
+  }
+}
 
 .wg-about{
 

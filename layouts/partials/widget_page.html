@@ -2,6 +2,22 @@
 <span class="js-widget-page d-none"></span>
 
 
+{{/* 头部图片 */}}
+{{$top_image := "images/design/top-image.jpg"}}
+{{- if .Params.top_image -}}
+{{- $top_image =  .Params.top_image -}}
+{{- end -}}
+<div class="site-header-container has-cover" style="background-image: url({{ $top_image | relURL}});">
+  <div class="scrim has-cover">
+    <div class="site-header">
+      <h1 class="title"></h1>
+      <p class="subtitle"></p>
+    </div>
+  </div>
+</div>
+
+
+
 
 {{/* Get widget page */}}
 {{ $page := "" }}
