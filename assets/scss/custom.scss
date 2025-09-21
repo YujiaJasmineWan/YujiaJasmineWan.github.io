@@ -1,0 +1,185 @@
+// Override this file to add your own SCSS styling.
+
+$text-primary-color: #0076df;
+$dark-text-primary-color: #efcc00;
+$border-color1: rgba(0,0,0,0.1);
+
+
+body, h1, h2, h3, h4, h5, h6 {
+  font-family: "Roboto", sans-serif;
+  color: #000000;
+}
+
+body {
+  color: #000000;
+  font-weight: 300;
+}
+
+
+ a:hover  {
+  text-decoration: underline !important;
+  color: $text-primary-color;
+}
+
+#navbar-main .main-menu-item ul li .nav-link:hover {
+  text-decoration: none !important;
+  color: $text-primary-color;
+}
+
+.dark a:hover {
+  text-decoration: underline !important;
+  color: $dark-text-primary-color !important;
+}
+
+
+.dark .navbar {
+  box-shadow: unset;
+  border-bottom: 1px solid #424246;
+  background: #1c1c1d;
+}
+body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
+  background: #1c1c1d;
+}
+
+.navbar {
+  font-size: 1rem;
+  box-shadow: unset;
+  border-bottom: 1px solid $border-color1;
+
+
+
+  .navbar-nav .nav-link.active {
+     font-weight: 400 !important;
+  }
+}
+.navbar-light {
+  font-weight: 300;
+}
+
+
+
+
+
+.page-publication {
+
+  .year-flag {
+    border-top: 1px solid $border-color1;
+    .year-text {
+      font-weight: 300;
+      font-size: 2rem;
+      color: $border-color1;
+      padding: 1rem 0 1.5rem 0;
+      text-align: right;
+    }
+  }
+
+  .pub-title {
+    font-weight: bold;
+  }
+  .pub-icon {
+   font-size: 1rem;
+  }
+  .title-link {
+    color: #000000;
+  }
+  .stream-item:not(:last-child) {
+    margin-bottom: 4rem;
+  }
+
+  .pub-authors {
+    color: #666666;
+   strong {
+     font-weight: bold;
+   }
+  }
+}
+
+
+.home-section {
+  padding: 1rem 0;
+}
+.home-section:nth-of-type(even) {
+  background: #fff;
+}
+
+
+
+.wg-about{
+
+  #profile {
+    padding: 4rem 0.5rem;
+  }
+  ul.ul-edu li .description p.institution {
+    font-size: 0.75rem;
+    //color: $text-primary-color;
+    color: #000000;
+  }
+  .edu-details {
+    .e-school {
+      font-weight: bold;
+    }
+
+  }
+  h2 {
+    font-size: 2rem;
+    font-weight: 300 !important;
+  }
+
+  .about-name {
+    font-size: 2.5rem;
+    font-weight: 300;
+    span {
+      font-weight: 700;
+    }
+  }
+}
+
+.dark {
+  .wg-bottom .social-links a {
+    color: #e8e8e8;
+  }
+}
+
+
+.wg-bottom {
+  .social-links{
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 900;
+    padding: 2rem 0 0 0;
+
+    a   {
+      color: #000000;
+      transition-property: all .2s ease-in-out;
+    }
+
+    a:hover {
+      color: $text-primary-color;
+      text-decoration: unset;
+    }
+
+  }
+
+  .home-bottom-email-text {
+    text-align: center;
+    font-size: 0.8rem;
+  }
+}
+
+
+// 手机
+@media (max-width: 780px) {
+
+  .wg-about {
+    .profile-text {
+      order: 10;
+    }
+    #profile {
+      padding: 0rem 0.5rem;
+    }
+  }
+  .research-list-wrap {
+    grid-template-columns: 1fr !important;
+  }
+
+}

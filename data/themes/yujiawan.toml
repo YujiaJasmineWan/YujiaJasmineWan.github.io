@@ -1,0 +1,42 @@
+# Theme metadata
+name = "yujiawan"
+
+[light]
+  # Primary
+  primary = "#0076df"
+
+  # Menu
+#  menu_primary = "#fff"
+#  menu_text = "#34495e"
+#  menu_text_active = "#b509ac"
+#  menu_title = "#2b2b2b"
+
+
+  menu_primary = "#fff"
+  menu_text = "#000"  # hover
+  menu_text_active = "#0076df"
+  menu_title = "#2b2b2b"
+
+  # Home sections
+  home_section_odd = ""
+  home_section_even = ""
+
+  link = "#0076df"
+  link_hover = "#0076df"
+#  link_decoration = "underline"
+
+
+[dark]
+  # Primary
+  primary = "#fff"
+
+  menu_text_active = "#efcc00"
+
+  link = "#efcc00"
+  link_hover = "#efcc00"
+#  link_decoration = "underline"
+
+
+  # Home sections
+  home_section_odd = ""
+  home_section_even = ""
