@@ -2,12 +2,18 @@
 
 $text-primary-color: #0076df;
 $dark-text-primary-color: #efcc00;
+$dark-text-color: #e8e8e8;
 $border-color1: rgba(0,0,0,0.1);
+$dark-border-color1: #424246;
 
 
 body, h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
   color: #000000;
+}
+
+body.dark, .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+  color: $dark-text-color;
 }
 
 body {
@@ -34,7 +40,7 @@ body {
 
 .dark .navbar {
   box-shadow: unset;
-  border-bottom: 1px solid #424246;
+  border-bottom: 1px solid $dark-border-color1;
   background: #1c1c1d;
 }
 body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
@@ -154,7 +160,7 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
 
 .dark {
   .wg-bottom .social-links a {
-    color: #e8e8e8;
+    color: $dark-text-color;
   }
 }
 
@@ -183,6 +189,27 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
     font-size: 0.8rem;
   }
 }
+
+
+
+
+.page-title {
+
+}
+.research-list-wrap {
+  h2 {
+    border-top: 1px solid $border-color1;
+    padding: 3rem 0 0 0 ;
+  }
+
+}
+.dark .research-list-wrap{
+  h2 {
+    border-top: 1px solid $dark-border-color1;
+  }
+}
+
+
 
 
 // 手机
