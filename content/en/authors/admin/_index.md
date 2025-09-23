@@ -16,7 +16,7 @@ organizations:
 - name:  University of California
   url:  
   
-role: PhD 
+role: MS 
 
 
 email: "jasminewan@berkeley.edu"
