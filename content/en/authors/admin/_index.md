@@ -78,8 +78,14 @@ education:
 
 ## About  me
 
-Hi! I am a Ph.D. student in Environmental Engineering at the University of California, Berkeley under the mentorship of [Professor Kara Nelson](https://nelsongroup.berkeley.edu/). My research lies at the intersection of environmental water microbiology and public health.
+Hi! I am a second year master student in Environmental Engineering at the University of California, Berkeley under the mentorship of [Prof. Baoxia Mi](https://ce.berkeley.edu/people/faculty/mi). My interest lies at the material application in environmental engineering, environmental chemistry, water reuse, digital twins, AI powered non-target screening and material design. Besides these areas, I’d like to explore more interested area too!
 
-I am currently involved in multiple projects. One project focuses on wastewater-based epidemiology, specifically investigating the persistence of viral nucleic acid signals in wastewater and how surfactants may affect their stability. Another project explores how sub-sewershed-level sampling can enhance efforts to improve health equity in wastewater-based surveillance. In an upcoming project, I will study the impact of blending purified direct potable reuse water with conventional drinking water directly within distribution systems, with a focus on implications for drinking water quality and safety.
+I am currently involved in two projects. One project focus on material application in environmental engineering, specifically exploring the development of 3D interfacial solar evaporator for mineral recovery. Another project studies electrochemical chromium removal, aiming to find a replacement of the chemical intensive process, which is also the topic for my graduation thesis. 
 
-In my free time, I enjoy photography (check out my photos [here](https://alliemnguyen.wordpress.com/)), dancing, and listening to music. I’m also constantly trying out new hobbies, such as crocheting, sewing, cooking, and baking :)
+While receiving training in laboratory skills, I am also strengthening my theoretical foundation. I audited fundamental electrochemistry and electrochemical device engineering over the summer, and I am currently taking class in electronic materials characterization to better understand the working principles of instruments such as XRD and XPS. 
+
+At a broader level, I have studied Sustainable Development Goals (SDG 6 in particular) on UN report to understand the global expectations for water research. Also, I have read reports from the EPA, NSF, and NAWI (DOE) to gain insight into the underlying priorities that guide environmental research. In addition, I like to read papers in my areas of interest, which helps me identify current limitations of certain fields and technologies, and envision possible directions for future development.
+
+In my free time, I enjoy dancing, especially ballroom dancing, and I joined the Cal Ballroom dance club. Also I am an academic live streamer on Chinese social media “BiliBili” (check my profile from [here](https://space.bilibili.com/359483232)). Talented scholars from all over the world gather here, and discussing about novel theories and advanced technologies in English.
+
+I’d love to connect and exchange ideas—let’s make a change together!

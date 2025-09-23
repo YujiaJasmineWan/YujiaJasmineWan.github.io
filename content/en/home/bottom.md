@@ -22,25 +22,27 @@ design:
 email_text:  
   
 links:
+
+  - name: "linkedin"
+    url: "https://www.linkedin.com/in/yujia-wan-bba75b306/"  
+    icon: "fab fa-linkedin"
+
   - name: "email"
     url: "mailto: jasminewan@berkeley.edu"  
     icon: "fa-solid fa-envelope"
   
-  - name: "orcid"
-    url: "https://orcid.org/0009-0003-8303-xxxx"  
-    icon: "ai ai-orcid"
+#  - name: "orcid"
+#    url: "https://orcid.org/0009-0003-8303-xxxx"  
+#    icon: "ai ai-orcid"
   
-  - name: "scholar"
-    url: "https://scholar.google.com/citations?user=xxx&hl=en"  
-    icon: "fas fa-graduation-cap"  
+#  - name: "scholar"
+#    url: "https://scholar.google.com/citations?user=xxx&hl=en"  
+#    icon: "fas fa-graduation-cap"  
 
   - name: "github"
     url: "https://github.com/YujiaJasmineWan"  
     icon: "fa-brands fa-github"
 
-  - name: "linkedin"
-    url: "https://www.linkedin.com/in/alliemnguyen"  
-    icon: "fab fa-linkedin"
   
 ---
  
