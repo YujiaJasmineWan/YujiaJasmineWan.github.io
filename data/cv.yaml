@@ -199,35 +199,80 @@
       value: |       
         **Excellent Volunteer** 
         <br> **Green Ecological Study Tour Class for K-12 Students** 
-        <br> Wuhan City, Hubei, China     
+        <br> Wuhan City, Hubei, China  
+        - Awarded to volunteers who demonstrate outstanding service and civic mindset in the K–12 Green Ecological Study Tour program, including preparing lessons, teaching nature-journaling, and conducting multiple on-site classes at different parks in Wuhan city.
 
     - name: "**2017**"
-      value: "**Practical Innovation Individual** <br> Faculty of Resources and Environment Science Hubei University"
+#      value: "**Practical Innovation Individual** <br> Faculty of Resources and Environment Science Hubei University"
+      value: |        
+        **Practical Innovation Individual** 
+        <br> Faculty of Resources and Environment Science, Hubei University
+        - Awarded to students who demonstrates practical innovation and impact; received in recognition of my provincial English speech award and university community service.
 
     - name: "**2017**"
-      value: "**2<sup>nd</sup> Prize of the Star of Outlook English Talent Competition** <br> Hubei Province, China"
+#      value: "**2<sup>nd</sup> Prize of the Star of Outlook English Talent Competition** <br> Hubei Province, China"
+      value: |      
+        **2<sup>nd</sup> Prize of the Star of Outlook English Talent Competition** 
+        <br> Hubei Province, China
+        - Awarded to contestants demonstrating excellence in English speech and presentation; assessed on language proficiency, content, delivery, and audience engagement.
+        - Crafted speeches over two months; refined content and presenting weekly to enhance presentation quality; reached the provincial level competition and secured the second prize through self-produced videos for online voting.
+        -	Honed public speaking abilities, improved self-confidence in addressing audiences and delivering impactful speeches.
 
     - name: "**2016**"
-      value: "**Excellent Student Leader** <br> Faculty of Resources and Environment Science Hubei University"
-
+#      value: "**Excellent Student Leader** <br> Faculty of Resources and Environment Science Hubei University"
+      value: |      
+        **Excellent Student Leader** 
+        <br> Faculty of Resources and Environment Science, Hubei University
+        - Awarded to student association leaders who demonstrate outstanding leadership and service, including coordinating campus events, securing corporate sponsorships, and managing outreach.
 
 - title: Leadership & Outreach
   type: time_table
   contents:
     - name: "**2025-Present**"
-      value: "**(CEE)<sup>2</sup> Ambassador** <br> Civil and Environmental Engineering, UC Berkeley · Sep 2025 -- Present"
+#      value: "**(CEE)<sup>2</sup> Ambassador** <br> Civil and Environmental Engineering, UC Berkeley · Sep 2025 -- Present"
+      value: |       
+        **(CEE)<sup>2</sup> Ambassador** 
+        <br> Civil and Environmental Engineering, UC Berkeley · Sep 2025 -- Present
+        - Volunteered as a coordinator for high school campus visit day.
+        - Introduced high school students to civil and environmental engineering during the campus visit day and answer their question in the panel.
+        - Participated community engagement workshops with topics like ‘What is the Spectrum of Community Engaged Education’.
 
     - name: "**2025-Present**"
-      value: "**GA Delegate** <br> Graduate Assembly, UC Berkeley · Aug 2025 -- Present"
+#      value: "**GA Delegate** <br> Graduate Assembly, UC Berkeley · Aug 2025 -- Present"
+      value: |         
+        **GA Delegate** 
+        <br> Graduate Assembly, UC Berkeley · Aug 2025 -- Present
+        - Reported students concerns and participating in policy development affecting graduate students.
+        - Served as the sponsor delegate for ‘Asian and Pacific Islander’ and advocating their interests.  
+        - Advised the chancellor on matters pertaining to the environment and sustainability related to campus.
 
     - name: "**2025**"
-      value: "**Committee of Outreach Department** <br> Berkeley China Summit, UC Berkeley · July 2025 -- Oct 2025"
+ #      value: "**Committee of Outreach Department** <br> Berkeley China Summit, UC Berkeley · Jul 2025 -- Oct 2025"
+      value: |      
+        **Committee of Outreach Department** 
+        <br> Berkeley China Summit, UC Berkeley · Jul 2025 -- Oct 2025
+        - Managed partnership coordination with companies, facilitating sponsorship negotiations and contact management.
+        - Coordinated sponsorship deliverables and promotional requirements, maintaining ongoing communication.
+        - Managed on-site logistics on event day, including venue setup, coordination of staff and volunteers, and emergency issue resolution.
 
     - name: "**2018**"
-      value: "**Volunteer** <br> For Green Ecological Study Tour Class for K-12 Students <br> Wuhan, Hubei, China · May 2018 -- Nov 2018"
-
+ #      value: "**Volunteer** <br> For Green Ecological Study Tour Class for K-12 Students <br> Wuhan, Hubei, China · May 2018 -- Nov 2018"
+      value: |       
+        **Volunteer** 
+        <br> Of Green Ecological Study Tour Class for K-12 Students 
+        <br> Wuhan, Hubei, China · May 2018 -- Nov 2018
+        - Trained on and assisted in delivering nature classes designed by the course teacher in advance.
+        - Instructed the technique of Nature Journaling and conducted on-site teaching for Nature Journaling at Parks in Wuhan city.
+        - Completed the voluntary teaching tasks for over ten times for primary and secondary school students.
+        
     - name: "**2016-2017**"
-      value: "**Committee of Outreach Department** <br> Undergraduate Student Association, Hubei University · May 2016 -- Sep 2017"
+ #      value: "**Committee of Outreach Department** <br> Undergraduate Student Association, Hubei University · May 2016 -- Sep 2017"
+      value: |        
+        **Committee of Outreach Department** 
+        <br> Undergraduate Student Association, Hubei University · May 2016 -- Sep 2017
+        - Sought sponsors for school competitions and events and connected with companies around school.
+        - Got sponsorships to ensure the smooth execution of the college’s diverse competitions and activities. 
+
 
 
 - title: Coursework
