@@ -26,9 +26,9 @@
 
         -	GPA: 4.0/ 4.0
         -	Research Topics:
-           - Electrochemical Heavy Metal Reduction
-           - Solar Evaporation for Resource Recovery
-           - Environmental Application of Nanomaterials
+          - Electrochemical Heavy Metal Reduction
+          - Solar Evaporation for Resource Recovery
+          - Environmental Application of Nanomaterials
         -	Thesis: Electrified porous electrode integrated reduction-filtration system for Cr (VI) removal (In preparation)
 
     - name: "2016-2020"
@@ -40,8 +40,8 @@
         -	GPA: 3.74/ 4.0 (WES)
         -	Graduated with Honors
         -	Research Topics:
-           - Ecology and Environmental Economics
-           - Solid Waste Management and Policy
+          - Ecology and Environmental Economics
+          - Solid Waste Management and Policy
         -	Graduation Design Project (Outstanding Thesis Award): <br>  Sewage treatment project design in a mountainous town (implemented circulating activated sludge process, including [14 detailed CAD technical drawings for all the treatment units](/gallery))
 
 
@@ -182,12 +182,24 @@
         <br> Hubei Province, China 
         - China’s national college innovation competition, one of China’s top student research contests, often called the “Olympics” of innovation.
         - Awarded to teams for outstanding scientific projects; evaluated on originality, innovation, scientific rigor, feasibility and practical value, quality of presentation and video, and teamwork.
+        - Competition: Willingness-to-pay for Recreation Services of Urban Green Ecosystem and its Value Assessment in Regional Specificity: A Case Study in the Central District of Wuhan City, China
+          - Led a research team and competed for the 12th Challenge cup.
+          - Authored the report; prepared the presentation slides; created promotional video with team members to showcase the project. 
+          -	Crafted speech script; presented the methodology and findings of the project in the competition as the speaker.
 
     - name: "**2018**"
-      value: "**Top 10 Excellent College Student** <br> Faculty of Resources and Environment Science, Hubei University"
+#      value: "**Top 10 Excellent College Student** <br> Faculty of Resources and Environment Science, Hubei University"
+      value: |       
+        **Top 10 Excellent College Student** 
+        <br> Faculty of Resources and Environment Science, Hubei University
+        - Awarded to the top ten students in the faculty for outstanding academic performance, research engagement, and service.
 
     - name: "**2018**"
-      value: "**Excellent Volunteer** <br> **Green Ecological Study Tour Class for K-12 Students** <br> Wuhan City, Hubei, China"
+#      value: "**Excellent Volunteer** <br> **Green Ecological Study Tour Class for K-12 Students** <br> Wuhan City, Hubei, China"
+      value: |       
+        **Excellent Volunteer** 
+        <br> **Green Ecological Study Tour Class for K-12 Students** 
+        <br> Wuhan City, Hubei, China     
 
     - name: "**2017**"
       value: "**Practical Innovation Individual** <br> Faculty of Resources and Environment Science Hubei University"
