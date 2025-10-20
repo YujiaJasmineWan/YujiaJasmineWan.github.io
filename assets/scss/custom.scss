@@ -318,6 +318,22 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
 
 
 
+.activities-list-wrap {
+  .act-item {
+    padding: 1rem 0;
+    .act-img {
+      padding: 0.2rem 0;
+    }
+    .act-content {
+      h2 {
+        margin-top: 0;
+      }
+    }
+  }
+}
+
+
+
 
 
 
