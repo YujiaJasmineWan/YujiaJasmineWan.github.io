@@ -333,7 +333,29 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
 }
 
 
+.gallery-list-wrap {
+  .gallery-item {
+    margin: 1.5rem 0 ;
+    background: #ffffff center;
 
+    a {display: block;}
+
+    img {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      user-select: none;
+      vertical-align: middle;
+      transition: 0.3s;
+      position: relative;
+    }
+    .img-desc {
+      color: #333333;
+      padding: 0.5rem;
+      min-height: 5rem;
+    }
+  }
+}
 
 
 
