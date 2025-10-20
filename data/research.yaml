@@ -1,6 +1,6 @@
 - group: "***Instructed by Prof. Baoxia Mi, University of California, Berkeley***"
   titles:
-    - title: "Electrochemical Chromium Reduction"
+    - title: "Project 1: Electrochemical Chromium Reduction"
       table:
         - name: "**2025-Present**"
           value: |
@@ -14,7 +14,7 @@
 
             - Employed QCM-D to monitor mass adsorption, surface fouling, and interfacial interactions during electroreduction.
 
-    - title: "Solar Evaporation for Resource Recovery"
+    - title: "Project 2: Solar Evaporation for Resource Recovery"
       table:
         - name: "**2025-Present**"
           value: |
@@ -28,7 +28,7 @@
 
             - Performed comprehensive tests under one sun illumination and real outdoor conditions using realistic mixtures and synthetic brackish water; used IC analysis to quantify solution concentrations; evaluated mineral recovery efficiency and adsorption capacity.
 
-    - title: "Environmental Application of Nanomaterials"
+    - title: "Project 3: Environmental Application of Nanomaterials"
       table:
         - name: "**2024-2025**"
           value: |
@@ -42,25 +42,9 @@
 
             - Performed tracer test using Rhodamine dye and processed data; coated MoS<sub>2</sub> inside the 3D filtration column; learned to operate the MoS<sub>2</sub>-based filtration system by running wastewater that contains Cr (VI); evaluated the removal efficiency and adsorption capacity.
 
-- group: "***Instructed by Prof. Zhaohua Li, Hubei University***"
-  titles:
-    - title: "Decentralized Biological Wastewater Treatment"
-      table:
-        - name: "**2020-2021**"
-          value: |
-            **Wooden Biofilm Carriers for Decentralized Wastewater Treatment**
-
-            Full-time Research Project · Sep 2020 -- May 2021
-
-            - Developed natural wooden biofilm carriers as a sustainable and low-cost media for rural decentralized wastewater treatment, addressing the limited carbon source of rural domestic wastewater and high cost of synthetic biofilm carrier.
-
-            - Conducted anaerobic purification of eight natural wooden biofilm carriers to enhance biodegradability and porosity for wastewater treatment; analyzed property changes of wooden media to identify optimal treatment durations.
-
-            - Designed a SBR reactor using wooden biofilm carriers for treating rural domestic sewage, achieving stable COD and NH₄⁺-N removal while demonstrating the feasibility of self-sustained, low-energy treatment for rural applications.
-
 - group: "***Mentored by Prof. Zhiyong Jason Ren, Princeton University***"
   titles:
-    - title: "Climate Change and Decarbonization"
+    - title: "Project: Climate Change and Decarbonization"
       table:
         - name: "**2020-2021**"
           value: |
@@ -74,9 +58,25 @@
 
             - Engaged with team members to produce a project, integrating insights from lectures, case studies, to address complex environmental challenges; completed and awarded A in the final presentation titled *Strengthen the Nexus of Energy and Climate Change in Wastewater Treatment.*
 
+- group: "***Instructed by Prof. Zhaohua Li, Hubei University***"
+  titles:
+    - title: "Project: Decentralized Biological Wastewater Treatment"
+      table:
+        - name: "**2020-2021**"
+          value: |
+            **Wooden Biofilm Carriers for Decentralized Wastewater Treatment**
+
+            Full-time Research Project · Sep 2020 -- May 2021
+
+            - Developed natural wooden biofilm carriers as a sustainable and low-cost media for rural decentralized wastewater treatment, addressing the limited carbon source of rural domestic wastewater and high cost of synthetic biofilm carrier.
+
+            - Conducted anaerobic purification of eight natural wooden biofilm carriers to enhance biodegradability and porosity for wastewater treatment; analyzed property changes of wooden media to identify optimal treatment durations.
+
+            - Designed a SBR reactor using wooden biofilm carriers for treating rural domestic sewage, achieving stable COD and NH₄⁺-N removal while demonstrating the feasibility of self-sustained, low-energy treatment for rural applications.
+
 - group: "***Instructed by Prof. Liya Zhao, Hubei University***"
   titles:
-    - title: "Ecology and Environmental Economics"
+    - title: "Project 1: Ecology and Environmental Economics"
       table:
         - name: "**2018-2020**"
           value: |
@@ -100,7 +100,7 @@
 
               - Zhao M, **Wan Y**, et al., ***Assessment of Willingness to Pay and Value of Leisure and Recreation Services in Urban Green Ecosystems--The Case of Wuhan Hanyang District*** \[J\] Advances in Environmental Protection, 2019,9(3):315-321. DOI:10.12677/aep.2019.93044
 
-    - title: "Solid Waste Management and Policy"
+    - title: "Project 2: Solid Waste Management and Policy"
       table:
         - name: "**2019**"
           value: |
