@@ -153,10 +153,22 @@
   type: time_table
   contents:
     - name: "**2020**"
-      value: "**Outstanding Graduate Award** <br> Hubei University"
+#      value: "**Outstanding Graduate Award** <br> Hubei University"
+      value: |
+        **Outstanding Graduate Award**
+        <br> Hubei University
+        - Honors of graduating students with outstanding academic performance (3%), and contributions to the university community.
 
     - name: "**2020**"
-      value: "**Outstanding Thesis Award** <br> Hubei University"
+#      value: "**Outstanding Thesis Award** <br> Hubei University"
+      value: |
+        **Outstanding Thesis Award**
+        <br> Hubei University
+        - Awarded for an outstanding graduation thesis/ design evaluated by the university for originality, strong engineering analysis, clear documentation, and implementation feasibility.
+        - Graduation Design Project:
+          -	Sewage treatment project design in a mountainous town
+          -	Implemented circulating activated sludge process, including [14 detailed CAD technical drawings](/gallery) covering site layout, hydraulic profile, process flow diagrams, equipment specifications, and technical schematics for all the treatment units.
+
 
     - name: "**2016-2020**"
       value: "**1<sup>st</sup> Class Excellent Scholarship** <br> Hubei University"

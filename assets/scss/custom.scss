@@ -228,6 +228,9 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
 }
 .research-list-wrap {
 
+  .r-group {
+    font-size: 1.5rem;
+  }
 
 }
 .dark .research-list-wrap{
@@ -327,6 +330,13 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
     .act-content {
       h2 {
         margin-top: 0;
+      }
+    }
+
+    .act-desc {
+      h5 {
+        font-size: 0.8rem;
+        font-weight: normal;
       }
     }
   }
