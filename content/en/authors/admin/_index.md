@@ -54,22 +54,22 @@ title:
 
 
 education: 
-  - school: University of California
-    location: Berkeley  CA  USA
-    period: 08/2024-05/2026
-    desc: |
-      - M.S., Civil and Environmental Engineering, GPA: 4.0/4.0                                                                       
-      - Advisor: Prof. Baoxia Mi, Wood-Calvert Chair in Engineering, UC Berkeley
-      - Thesis: Development of electrified stainless-steel filter integrated reduction-filtration system for Cr (VI) removal in wastewater (In preparation, check the title with Wenli)  
-    
-    
-  - school: Hubei University
-    location: Wuhan, China
-    period: 09/2016-06/2020
-    desc: |
-      - B.E. (with honors), Environmental Engineering, GPA: 3.74/4.0 (WES)                                                   
-      - Advisor: Prof. Liya Zhao, Associate Dean of Faculty of Resources and Environmental Science 
-      - Graduation Design Project (Outstanding Thesis Award): Sewage treatment project design in a mountainous town (implemented circulating activated sludge process; including 14 detailed CAD technical drawings covering site layout, hydraulic profile, process flow diagrams, equipment specifications, and technical schematics for all the treatment units)
+#  - school: University of California
+#    location: Berkeley  CA  USA
+#    period: 08/2024-05/2026
+#    desc: |
+#      - M.S., Civil and Environmental Engineering, GPA: 4.0/4.0                                                                       
+#      - Advisor: Prof. Baoxia Mi, Wood-Calvert Chair in Engineering, UC Berkeley
+#      - Thesis: Development of electrified stainless-steel filter integrated reduction-filtration system for Cr (VI) removal in wastewater (In preparation, check the title with Wenli)  
+#    
+#    
+#  - school: Hubei University
+#    location: Wuhan, China
+#    period: 09/2016-06/2020
+#    desc: |
+#      - B.E. (with honors), Environmental Engineering, GPA: 3.74/4.0 (WES)                                                   
+#      - Advisor: Prof. Liya Zhao, Associate Dean of Faculty of Resources and Environmental Science 
+#      - Graduation Design Project (Outstanding Thesis Award): Sewage treatment project design in a mountainous town (implemented circulating activated sludge process; including 14 detailed CAD technical drawings covering site layout, hydraulic profile, process flow diagrams, equipment specifications, and technical schematics for all the treatment units)
 
                                                                                                                                                     
     
@@ -78,14 +78,25 @@ education:
 
 ## About  me
 
-Hi! I am a second year master student in Environmental Engineering at the University of California, Berkeley under the mentorship of [Prof. Baoxia Mi](https://ce.berkeley.edu/people/faculty/mi). My interest lies at the material application in environmental engineering, environmental chemistry, water reuse, digital twins, AI powered non-target screening and material design. Besides these areas, I’d like to explore more interested area too!
+{{< image  
+src="images/avatar.jpg"  
+desc="MS <br> University of California"  
+>}}
 
-I am currently involved in two projects. One project focus on material application in environmental engineering, specifically exploring the development of 3D interfacial solar evaporator for mineral recovery. Another project studies electrochemical chromium removal, aiming to find a replacement of the chemical intensive process, which is also the topic for my graduation thesis. 
+Hi! I am a second-year master student in the Environmental Engineering at the University of California, Berkeley under the mentorship of [Prof. Baoxia Mi](https://ce.berkeley.edu/people/faculty/mi) and Dr. Wenli Jiang.
 
-While receiving training in laboratory skills, I am also strengthening my theoretical foundation. I audited fundamental electrochemistry and electrochemical device engineering over the summer, and I am currently taking class in electronic materials characterization to better understand the working principles of instruments such as XRD and XPS. 
+My research experience covers Water Treatment, Decarbonization and Environmental Economics. And my research interest lies in studying physicochemical process such as electrochemical and photocatalytic process, solar evaporation, membrane separation, nanocatalysis, and biological process including biodegradation and biotransformation to enable desalination, water reuse, nutrient/ energy recovery and public health protection. I am also interested in studying transport and interfacial phenomena, and non-target screening for the occurrence and fate of emerging contaminants, like PFAS. Moreover, I want to explore my possibility in AI, digital twins and decarbonization. 
 
-At a broader level, I have studied Sustainable Development Goals (SDG 6 in particular) on UN report to understand the global expectations for water research. Also, I have read reports from the EPA, NSF, and NAWI (DOE) to gain insight into the underlying priorities that guide environmental research. In addition, I like to read papers in my areas of interest, which helps me identify current limitations of certain fields and technologies, and envision possible directions for future development.
+I am currently involved in two projects. One project focuses on developing 3D interfacial solar evaporator for mineral recovery. Another project explores an electrified porous filter integrated system for Cr (VI) reduction, which is also the topic of my thesis. While gaining hand-on experience in lab, I am also strengthening my theoretical foundation. I audited electrochemistry class over the summer, and I am currently taking class in electronic materials characterization. At a broader level, I have studied UNEP report, EPA strategic plan, NAWI roadmap to understand the underlying priorities guiding environmental research. In addition, I enjoy reading a broad range of papers, which helps me identify limitations of current science and technologies, and envision future research direction.
 
-In my free time, I enjoy dancing, especially ballroom dancing, and I joined the Cal Ballroom dance club. Also I am an academic live streamer on Chinese social media “BiliBili” (check my profile from [here](https://space.bilibili.com/359483232)). Talented scholars from all over the world gather here, and discussing about novel theories and advanced technologies in English.
+In my free time, I enjoy yoga and dancing. I am also an academic live streamer on Chinese social media “BiliBili” (check [here](https://space.bilibili.com/359483232)). Talented scholars from all over the world gather here, discussing about novel theories and advanced technologies in English.
 
-I’d love to connect and exchange ideas—let’s make a change together!
+I’d like to connect and exchange ideas. Let’s make a change together!
+
+
+## &nbsp;
+## Education
+
+**M.S.** in Environmental Engineering, University of California, Berkeley (anticipated 2026)
+
+**B.E.** in Environmental Engineering, Hubei University (2020)

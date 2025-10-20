@@ -1,0 +1,52 @@
+{- define "main" -}}
+
+  {{ $st := . }}
+
+
+  {{- $activities := site.Data.activities -}}
+
+
+
+  {{/* 头部图片 */}}
+  {{$top_image := "images/design/top-image.png"}}
+  {{- if .Params.top_image -}}
+  {{- $top_image =  .Params.top_image -}}
+  {{- end -}}
+  <div class="site-header-container  has-cover" style="background-image: url({{ $top_image | relURL}});">
+    <div class="scrim has-cover">
+      <div class="site-header">
+        <h1 class="title"></h1>
+        <p class="subtitle"></p>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="universal-wrapper page-publication container">
+
+      <div class="pt-3 pb-3 pub-title">
+          <h1>{{ .Title }}</h1>
+      </div>
+
+
+      <div class="activities-list-wrap pb-5">
+
+
+        {{ range  $index, $item := $activities }}
+        <div class="row">
+          <div class="col-12 col-md-4">
+            <img src="{{ $item.image | relURL }}" />
+          </div>
+          <div class="col-12 col-md-8">
+            {{ $item.content | markdownify | emojify  }}
+          </div>
+        </div>
+        {{ end }}
+
+      </div>
+
+  </div>
+
+
+{{- end -}}

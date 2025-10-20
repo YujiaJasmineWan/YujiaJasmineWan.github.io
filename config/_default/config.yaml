@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yujia Wan # Website name
+title: Yujia Wan (Jasmine) # Website name
 baseURL: 'https://YujiaJasmineWan.github.io/' # Website URL
 
 ############################

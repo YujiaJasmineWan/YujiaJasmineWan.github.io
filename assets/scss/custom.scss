@@ -7,6 +7,13 @@ $border-color1: rgba(0,0,0,0.1);
 $dark-border-color1: #424246;
 
 
+@media (min-width: 992px) {
+  .container, .container-xl {
+    max-width: 1000px;
+  }
+}
+
+
 body, h1, h2, h3, h4, h5, h6 {
   font-family: "Roboto", sans-serif;
   color: #000000;
@@ -108,8 +115,11 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
   background: #fff;
 }
 
-
+.home-bottom-wrap {
+  display: none;
+}
 .site-header-container {
+  display: none;
   color: #fff;
   text-shadow: 0 2px 1px rgba(0, 0, 0, 0.67) !important;
   background-position: bottom;
@@ -127,8 +137,27 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
     }
   }
 }
+.publications-ph {
+  display: block !important;
+}
 
-.wg-about{
+.wg-about {
+
+  .short-code-image {
+    float: right;
+    width: 35%;
+    margin-top: 0.5rem;
+    padding: 0 1rem 2rem 1rem;
+    img {
+      margin: 0 !important;
+    }
+    .img-desc {
+      padding-top: 0.5rem;
+      color: rgba(0, 0, 0, .54);
+      text-align: center;
+    }
+  }
+
 
   #profile {
     padding: 8rem 0 0 0.5rem;
@@ -139,6 +168,7 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
     color: #000000;
   }
   .edu-details {
+    display: none;
     .e-school {
       font-weight: bold;
     }
@@ -197,17 +227,97 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
 
 }
 .research-list-wrap {
-  h2 {
-    border-top: 1px solid $border-color1;
-    padding: 3rem 0 0 0 ;
-  }
+
 
 }
 .dark .research-list-wrap{
-  h2 {
-    border-top: 1px solid $dark-border-color1;
+
+}
+
+
+
+
+
+.cv-list-wrap {
+  .card .card-text p + ul {
+    margin-top: 0rem;
+  }
+
+  .cv-item {
+    .card-title::marker {
+      font-size: 1rem;
+    }
+    .card-title {
+      display: list-item;
+      list-style: inside disclosure-closed;
+
+      cursor: pointer;
+      font-size: 1.5rem;
+
+    }
+    .card-text {
+      display: none;
+    }
+
+
+    .card-text {
+
+      .row {
+        padding: 0.5rem 0 1rem 0;
+        border-top: 1px solid rgba(0,0,0,0.1);
+      }
+      .map-value {
+        i {
+          color: $text-primary-color;
+        }
+      }
+      p {
+        color: #000000;
+        font-size: 1rem;
+      }
+      strong {
+        font-weight: bold;
+      }
+    }
+  }
+  .cv-item .open {
+    .card-title {
+      list-style: inside disclosure-open;
+    }
+    .card-text {
+      display: block;
+    }
+
+  }
+
+
+  .cv-item.time_table {
+    .key-content {
+      background-color: $text-primary-color;
+      color: #ffffff;
+
+      display: inline-block;
+      padding: 0.25em 0.4em;
+      font-size: 75%;
+      font-weight: 700;
+      line-height: 1;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: baseline;
+      border-radius: 0.25rem;
+    }
+  }
+
+  .map {
+    .map-key {
+      font-weight: bold;
+    }
+    .map-value {}
   }
 }
+
+
+
 
 
 
@@ -216,6 +326,9 @@ body.dark, .dark .home-section, .dark .home-section:nth-of-type(even) {
 @media (max-width: 780px) {
 
   .wg-about {
+    .short-code-image {
+      width: 45%;
+    }
     .profile-text {
       order: 10;
     }

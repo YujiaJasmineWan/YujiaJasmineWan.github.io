@@ -10,7 +10,7 @@ main:
     weight: 10
 
   - name: CV
-    url: 'uploads/cv.pdf'
+    url: 'cv'
     weight: 30
 
 
@@ -19,18 +19,18 @@ main:
     weight: 50
 
 
-  - name: Work
-    url: 'work'
-    weight: 70
+#  - name: Work
+#    url: 'work'
+#    weight: 70
 
 
-  - name: Leadership
-    url: 'leadership'
+  - name: Publications
+    url: 'publications'
     weight: 90
 
 
-  - name: Outreach
-    url: 'outreach'
+  - name: Activities
+    url: 'activities'
     weight: 110
 
 
