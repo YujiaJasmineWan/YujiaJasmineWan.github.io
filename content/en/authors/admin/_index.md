@@ -97,5 +97,5 @@ In my free time, I enjoy yoga and dancing. I am also an academic live streamer o
 ## &nbsp;
 ## Education
 
-**M.S.** in Environmental Engineering, University of California, Berkeley (anticipated 2026)
+**M.S.** in Environmental Engineering, University of California, Berkeley (anticipated 2026)<br>
 **B.E.** in Environmental Engineering, Hubei University (2020)
