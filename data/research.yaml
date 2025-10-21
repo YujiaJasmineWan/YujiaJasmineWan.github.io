@@ -60,7 +60,19 @@
 
 - group: "***Instructed by Prof. Zhaohua Li, Hubei University***"
   titles:
-    - title: "Project: Decentralized Biological Wastewater Treatment"
+    - title: "Project 1: Ecological Civilization Construction Plan"
+      table:
+        - name: "**2020-2021**"
+          value: |
+            **The Ecological Civilization Construction Plan of Wuhan City**
+
+            Full-time Research Project · Nov 2020 -- Aug 2021
+
+            - Conducted literature review on ecological indicators and ecological civilization construction frameworks; assisted the professor in writing chapters on sustainable water supply, decarbonization, green infrastructure planning, etc.
+
+            - Facilitated the communication and coordination of the project commission agency, Wuhan Ecological Environment Bureau, and project leader, Prof. Zhaohua Li; collected comments of the Bureau and rivised the plan with the professor.
+
+    - title: "Project 2: Decentralized Biological Wastewater Treatment"
       table:
         - name: "**2020-2021**"
           value: |
