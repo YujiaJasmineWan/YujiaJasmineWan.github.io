@@ -28,23 +28,23 @@ social:
   
 #- icon: twitter
 #  icon_pack: fab
-#  link: https://x.com/tipengchen
+#  link: 
 
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
 #  icon_pack: fas
-#  link: https://scholar.google.com/citations?hl=en&user=r_xxxxAAJ
+#  link: 
   
 # - icon: github
 #   icon_pack: fab
-#   link: https://github.com/xx
+#   link: 
   
 #- icon: instagram
 #  icon_pack: fab
-#  link:  https://www.instagram.com/xxx/
+#  link:  
   
 #- icon: linkedin
 #  icon_pack: fab
-#  link: https://www.linkedin.com/in/xx107/
+#  link: 
     
 
 
@@ -89,14 +89,13 @@ My research experience covers Water Treatment, Decarbonization and Environmental
 
 I am currently involved in two projects. One project focuses on developing 3D interfacial solar evaporator for mineral recovery. Another project explores an electrified porous filter integrated system for Cr (VI) reduction, which is also the topic of my thesis. While gaining hand-on experience in lab, I am also strengthening my theoretical foundation. I audited electrochemistry class over the summer, and I am currently taking class in electronic materials characterization. At a broader level, I have studied UNEP report, EPA strategic plan, NAWI roadmap to understand the underlying priorities guiding environmental research. In addition, I enjoy reading a broad range of papers, which helps me identify limitations of current science and technologies, and envision future research direction.
 
-In my free time, I enjoy yoga and dancing. I am also an academic live streamer on Chinese social media “BiliBili” (check [here](https://space.bilibili.com/359483232)). Talented scholars from all over the world gather here, discussing about novel theories and advanced technologies in English.
+Besides, I am also open to industry. Growing up near Shennongjia National Park and the Yangtze River in China, I was obsessed with natural Environment. However, I also saw how industiral activities impact the local environment. That is why I am passionate about advancing sustainable environmental solutions across water, energy, and resource systems. Therefore, I am seeking roles as a process engineer or environmental consultant/ scientist. With skills in project management, data analysis, and technical communication, I aim to bridge science and engineering to create efficient real-world impacts.
 
-I’d like to connect and exchange ideas. Let’s make a change together!
+In my free time, I enjoy yoga and dancing. I am also an academic live streamer on Chinese social media “BiliBili” (check [here](https://space.bilibili.com/359483232)). Talented scholars from all over the world gather here, discussing about novel theories and advanced technologies in English. I’d like to connect and exchange ideas. Let’s make a change together!
 
 
 ## &nbsp;
 ## Education
 
 **M.S.** in Environmental Engineering, University of California, Berkeley (anticipated 2026)
-
 **B.E.** in Environmental Engineering, Hubei University (2020)
