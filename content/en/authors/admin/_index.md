@@ -83,7 +83,7 @@ src="images/avatar.jpg"
 desc="MS <br> University of California"  
 >}}
 
-Hi! I am a second-year master student in Civil and Environmental Engineering at the University of California, Berkeley under the mentorship of [Prof. Baoxia Mi](https://ce.berkeley.edu/people/faculty/mi) and Dr. Wenli Jiang.
+Hi! I am a second-year master student in Civil and Environmental Engineering at the University of California, Berkeley mentored by [Prof. Baoxia Mi](https://ce.berkeley.edu/people/faculty/mi) and Dr. Wenli Jiang.
 
 My research experience covers water treatment, decarbonization and environmental economics. My research interest lies in studying physicochemical and biological process such as electrochemical and photocatalytic process, solar evaporation, membrane separation, nanocatalysis, biotransformation and biodegradation to enable desalination, water reuse, nutrient/ energy recovery, and public health protection. I'm also interested in transport and interfacial phenomena, non-target screening for the occurrence and fate of emerging contaminants, like PFAS, and exploring my possibility in decarbonization, AI, and digital twins. 
 
