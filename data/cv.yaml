@@ -50,7 +50,7 @@
   type: map
   contents:
     - name: "**Lab Skills**"
-      value: "IC, ICP-MS, UV-Vis, Ismatec IPC Pump, Potentialstat, Potential Control, Amperometry, Cyclic Voltammetry, EQCM-D, 1T and 2H MoS2 Synthesis, GO-based 3D Evaporator Fabrication, Microscopy, Plate Counting, SBR operation, Tracer Test, Water Quality Monitoring"
+      value: "IC, ICP-MS, UV-Vis, Potentiostat, Potential Control, Amperometry, Cyclic Voltammetry, EQCM-D, 1T and 2H MoS2 Synthesis, GO-based 3D Evaporator Fabrication, Layer-by-layer assembly of membrane fabrication, Microscopy, Plate Counting, SBR operation, Tracer Test, Water Quality Monitoring"
 
     - name: "**Software Skills**"
       value: "AutoCAD (flow diagrams), Autodesk Fusion 360 (3D design), ArcGIS (mapping), SPSS (Data Analysis), Python (Hydrology/ Fluid Mechanics), R (Bioinformation), MATLAB, Origin"
