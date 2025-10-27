@@ -1,24 +1,24 @@
 - group: "***Instructed by Prof. Baoxia Mi, University of California, Berkeley***"
   titles:
-    - title: "Project 1: Electrochemical Chromium Reduction"
+    - title: "Project 1: Electrified Membrane for Cr (VI) Reduction"
       table:
         - name: "**2025-Present**"
           value: |
-            **Electrochemical Hexavalent Chromium [Cr (VI)] Reduction**
+            **Electrified Porous Membrane System for Cr (VI) Reduction**
 
             Graduate Research · Aug 2025 -- Present
 
             - Conducted literature review to identify the forms, sources and occurrence, health risks, and drinking water regulations of Chromium; summarized the current technologies and studies for Cr (VI) removal; specified the limitation of current technologies, understood the new technology that is promising to removal Cr (VI) efficiently.
 
-            - Developed and applied a flow through porous material electrode for coupled Cr (VI) reduction and filtration; operated and optimized the electroreduction reactor; quantified the inlet and outlet Cr concentration by ICP-MS; evaluated removal efficiency, energy consumption, process economics and feasibility to scale up.
+            - Developed and applied a flow through electrified porous membrane for coupled Cr (VI) reduction and filtration; operated and optimized the electroreduction reactor; quantified the inlet and outlet Cr concentration by ICP-MS; evaluated removal efficiency, energy consumption, process economics and feasibility to scale up.
 
             - Employed EQCM-D to monitor mass adsorption, surface fouling, and interfacial interactions during electroreduction.
 
-    - title: "Project 2: Solar Evaporation for Resource Recovery"
+    - title: "Project 2: Solar Evaporation for Nutrient Recovery"
       table:
         - name: "**2025-Present**"
           value: |
-            **3D interfacial Solar Evaporator for Mineral Recovery**
+            **3D interfacial Solar Evaporator for Nutrient Recovery**
 
             Graduate Research · May 2025 -- Present
 
@@ -26,13 +26,13 @@
 
             - Prepared GO nanosheet suspension using the modified Hummers method and coated solar evaporator with the GO suspension to enhance photothermal conversion and evaporation performance.
 
-            - Performed evaporation tests under one sun illumination and real outdoor conditions using realistic mixtures and synthetic brackish water; used IC analysis to quantify solution concentrations and evaluate mineral recovery efficiency; proposed a hypothesis to explain the interfacial phenomena; assisted postdoc to design experiments to validate it.
+            - Performed evaporation tests under one sun illumination and real outdoor conditions using realistic mixtures and synthetic brackish water; used IC analysis to quantify solution concentrations and evaluate nutrient recovery efficiency; proposed a hypothesis to explain the interfacial phenomena; assisted postdoc to design experiments to validate it.
 
-    - title: "Project 3: Environmental Application of Nanomaterials"
+    - title: "Project 3: MoS2 Filtration for Cr (VI) Removal"
       table:
         - name: "**2024-2025**"
           value: |
-            **MoS<sub>2</sub>-Based Filtration System for [Cr (VI)] Removal**
+            **Redox-Active MoS<sub>2</sub> Filtration System for Cr (VI) Removal**
 
             Graduate Research · Dec 2024 -- April 2025
 
