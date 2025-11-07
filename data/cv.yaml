@@ -50,7 +50,7 @@
   type: map
   contents:
     - name: "**Lab Skills**"
-      value: "IC, ICP-MS, UV-Vis, Potentiostat, Potential Control, Amperometry, Cyclic Voltammetry, EQCM-D, 1T and 2H MoS2 Synthesis, GO nanosheet suspension preparation, GO-based 3D Evaporator Fabrication, Layer-by-Layer Assembly for Membrane Fabrication, Tracer Test, Microscopy, Plate Counting"
+      value: "IC, ICP-MS, UV-Vis, Potentiostat, Potential Control, Amperometry, Cyclic Voltammetry, EQCM-D, 1T and 2H MoS2 Synthesis, GO-based 3D Evaporator Fabrication, Layer-by-Layer Assembly for Membrane Fabrication, Tracer Test, Microscopy, Plate Counting"
 
     - name: "**Software Skills**"
       value: "AutoCAD (flow diagrams), Autodesk Fusion 360 (3D design), ArcGIS (mapping), SPSS (Data Analysis), Python (Hydrology/ Fluid Mechanics), R (Bioinformation), MATLAB, Origin"
@@ -80,7 +80,7 @@
           -	Applied an electrified porous membrane for Cr (VI) reduction and filtration; operated electroreduction reactor, tested the removal efficiency, energy consumption, process economics, feasibility to scale up.
           -	Employed EQCM-D to monitor mass adsorption, surface fouling, and interfacial interactions during electroreduction.
         
-        - **Project 2: 3D Solar Evaporator for Nutrient Recovery 05/2025-Present**
+        - **Project 2: 3D Solar Evaporator for resource Recovery 05/2025-Present**
           -	Coated solar evaporator with GO suspension; performed evaporation tests under stimulated/ real outdoor condition using realistic brine water; evaluated nutrient recovery efficiency.
         
         - **Project 3: MoS2 Filtration System for Cr (VI) Removal 12/2024-04/2025**
